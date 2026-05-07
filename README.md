@@ -12,6 +12,3 @@ Dit project gebruikt Tailwind CSS. Na het aanpassen van templates moet je de CSS
 - Eenmalig bouwen: `npm run build`
 - Automatisch hercompileren tijdens ontwikkeling: `npm run dev`
 
-## TODOs
-- Fix anchor tags binnen pagina
-- Serveer Google Font lokaal met eigen Tailwind CSS
